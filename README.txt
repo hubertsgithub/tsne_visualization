@@ -11,7 +11,7 @@ Usage:
 ===========
 !! Embedding html is based on Sean Bell's viewer at: http://www.cs.cornell.edu/~sbell/siggraph2015-embedding.html !!
 
-Notes from Sean:
+Notes from Sean that I followed to reconstruct the viewer:
 '''
 There are a few pieces that I glued together:
  - Project with tSNE — Barnes-hut variant with standard params
